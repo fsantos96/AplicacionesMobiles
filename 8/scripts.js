@@ -6,4 +6,4 @@ function esPar(num) {
     return num % 2 == 0;
 }
 
-cuantosCumplen(esPar,[7,9,25,42]);
+console.log(cuantosCumplen(esPar,[7,9,25,42]));

@@ -6,4 +6,4 @@ function esMayor(num, numMayor) {
     return num > numMayor;
 }
 
-rechazar(esMayor,[7,9,87,42]);
+console.log(rechazar(esMayor,[7,9,87,42]));
